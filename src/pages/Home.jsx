@@ -5,7 +5,7 @@ export default function Home() {
     <div>
       <NavBar/>
       <p className="text-3xl text-center nt-6 font-bold text-blue-600">
-        Welcome to Weerapong
+        Welcome to Weerapong jookratok
       </p>
      
     </div>
